@@ -3,6 +3,7 @@
 * [docs page](README.md)
 * [Page](page.md)
 * [pagination](pagination.md)
+* [Page 4](page-4.md)
 
 ## Group 1
 
@@ -10,6 +11,7 @@
   * [Page 1](group-1/page-2/page-1.md)
 * [Copy of Page 2](group-1/copy-of-page-2.md)
 * [Paperguide page 1](group-1/paperguide-page-1.md)
+* [Page 3](group-1/page-3.md)
 
 ## Group 2
 
@@ -18,12 +20,11 @@
 
 ***
 
-*
 * ```yaml
-  type: builtin:openapi
   props:
     models: true
     downloadLink: true
+  type: builtin:openapi
   dependencies:
     spec:
       ref:
