@@ -7,15 +7,15 @@
 
 ## Group 1
 
-* [Page 2](group-1/page-2/README.md)
-  * [Page 1](group-1/page-2/page-1.md)
-* [Copy of Page 2](group-1/copy-of-page-2.md)
-* [Paperguide page 1](group-1/paperguide-page-1.md)
-* [Page 3](group-1/page-3.md)
+* [Paperguide page 1](group-1/paperguide-page-1/README.md)
+  * [Page 2](group-1/paperguide-page-1/page-2/README.md)
+    * [Page 1](group-1/paperguide-page-1/page-2/page-1.md)
 
 ## Group 2
 
+* [Page 3](group-2/page-3.md)
 * [Copy of Page 2](group-2/copy-of-page-2.md)
+* [Copy of Page 2](group-2/copy-of-page-2-1.md)
 * [Copy of Copy of Page 2](group-2/copy-of-copy-of-page-2.md)
 
 ***
