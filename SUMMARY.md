@@ -1,6 +1,7 @@
 # Table of contents
 
 * [docs page](README.md)
+* [Page linking](page-linking.md)
 * [Page link](page.md)
 * [pagination](pagination.md)
 * [Page 4](page-4.md)
